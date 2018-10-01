@@ -1,0 +1,28 @@
+#research {
+	padding-bottom: 2%;
+
+	> header {
+		> p {
+			margin: 0;
+		}
+		> ul.posts {
+			top: unset;
+			position: inherit;
+
+			.published {
+				display: flex;
+    			justify-content: space-between;
+
+    			> .publication {
+    				font-weight: 600;
+    			}
+			}
+
+			.abstract {
+				font-size: smaller;
+			}
+		}
+	}	 
+}
+
+
