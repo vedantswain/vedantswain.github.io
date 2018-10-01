@@ -471,6 +471,21 @@ ul.nav-pills {
     flex: 1;
     min-width: 20em; }
 
+#research {
+  padding-bottom: 2%; }
+  #research > header > p {
+    margin: 0; }
+  #research > header > ul.posts {
+    top: unset;
+    position: inherit; }
+    #research > header > ul.posts .published {
+      display: flex;
+      justify-content: space-between; }
+      #research > header > ul.posts .published > .publication {
+        font-weight: 600; }
+    #research > header > ul.posts .abstract {
+      font-size: smaller; }
+
 @media screen and (max-width: 736px) {
   #myScrollspy {
     display: none; } }
@@ -489,5 +504,3 @@ ul.nav-pills {
   padding: 0;
   margin: 0;
   margin-bottom: 1em; }
-
-/*# sourceMappingURL=mystyle.css.map */
