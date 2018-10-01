@@ -274,6 +274,7 @@ hr {
     flex-wrap: wrap; }
     .content-flex .display-about > .description {
       margin: 0 1em 0.5em 1em;
+      flex: 1;
       min-width: 24em;
       max-width: 48em; }
       @media screen and (max-width: 736px) {
@@ -289,7 +290,7 @@ hr {
       .content-flex .display-about > .media > img {
         object-fit: contain;
         width: 10em;
-        max-height: 20em;
+        max-height: 32em;
         margin-right: 0.5em;
         flex: 1; }
 
