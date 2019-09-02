@@ -1280,7 +1280,8 @@ hr {
 .blurb h3 {
   font-size: 0.7em; }
 .blurb p {
-  font-size: 0.9em; }
+  font-size: 0.9em;
+  text-align: justify; }
 
 /* Box */
 .box {
@@ -1708,7 +1709,8 @@ ul {
       padding: 0 1.5em 0 0;
       vertical-align: middle; }
       ul.actions li:last-child {
-        padding-right: 0; }
+        padding-right: 0;
+        margin-top: 1em; }
     ul.actions.pagination .next {
       text-decoration: none; }
       ul.actions.pagination .next:after {
@@ -2378,6 +2380,7 @@ body {
 
 /* Sidebar */
 #sidebar {
+  text-align: center;
   margin-right: 3em;
   min-width: 22em;
   width: 22em; }
@@ -2530,5 +2533,3 @@ body {
   @media screen and (max-width: 736px) {
     #menu > * {
       padding: 1em; } }
-
-/*# sourceMappingURL=main.css.map */
