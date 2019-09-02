@@ -157,7 +157,8 @@ hr {
 .content-flex {
   display: flex;
   flex-wrap: wrap;
-  margin-bottom: 1em; }
+  margin-bottom: 1em; 
+  }
   .content-flex > i {
     width: 100%;
     font-size: 10pt;
@@ -268,12 +269,12 @@ hr {
   .content-flex .display-about {
     display: flex;
     align-items: center;
-    margin-bottom: 2em;
+    /*margin-bottom: 2em;*/
     font-size: 10pt;
     width: 100%;
     flex-wrap: wrap; }
     .content-flex .display-about > .description {
-      margin: 0 1em 0.5em 1em;
+      margin: 0 1em 0em 1em;
       flex: 1;
       min-width: 24em;
       max-width: 48em; }
@@ -479,13 +480,25 @@ ul.nav-pills {
   #research > header > ul.posts {
     top: unset;
     position: inherit; }
-    #research > header > ul.posts .published {
-      display: flex;
-      justify-content: space-between; }
-      #research > header > ul.posts .published > .publication {
-        font-weight: 600; }
-    #research > header > ul.posts .abstract {
-      font-size: smaller; }
+  #research > header > ul.posts > li{
+    padding-top: 0.5em; }
+  #research > header > ul.posts > li h3 {
+    display: flex;
+    justify-content: space-between; }
+  #research > header > ul.posts > li h3 > .read-paper{
+    font-size: medium;
+    padding: 0 32px 0 32px; }
+  #research > header > ul.posts .published {
+    display: flex;
+    justify-content: space-between; }
+  #research > header > ul.posts .published > .publication {
+      font-weight: 600; }
+  #research > header > ul.posts .abstract {
+    font-size: smaller; }
+  #research > header > ul.posts .published > .authors {
+    width: 80%;
+    text-transform: none;
+  }
 
 @media screen and (max-width: 736px) {
   #myScrollspy {
