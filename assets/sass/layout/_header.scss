@@ -60,6 +60,10 @@
 		    position: absolute;
 		    left: 50%;
 		    transform: translateX(-50%);
+
+		    &:before{
+		    	content:"Ubicomp X Comp Social Science Researcher";
+		    }
 		}
 		@include breakpoint(xsmall) {
 			h2 {
