@@ -1709,8 +1709,7 @@ ul {
       padding: 0 1.5em 0 0;
       vertical-align: middle; }
       ul.actions li:last-child {
-        padding-right: 0;
-        margin-top: 1em; }
+        padding-right: 0; }
     ul.actions.pagination .next {
       text-decoration: none; }
       ul.actions.pagination .next:after {
@@ -2232,6 +2231,8 @@ body {
     position: absolute;
     left: 50%;
     transform: translateX(-50%); }
+    #header h2:before {
+      content: "Ubicomp X Comp Social Science Researcher"; }
   @media screen and (max-width: 480px) {
     #header h2 {
       display: none; } }
@@ -2533,3 +2534,5 @@ body {
   @media screen and (max-width: 736px) {
     #menu > * {
       padding: 1em; } }
+
+/*# sourceMappingURL=main.css.map */

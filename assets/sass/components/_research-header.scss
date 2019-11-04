@@ -9,13 +9,41 @@
 			top: unset;
 			position: inherit;
 
+			> li{
+    			padding-top: 0.5em; 
+
+    			h3 {
+    				display: flex;
+    				justify-content: space-between;
+
+    				> .read-paper{
+					    font-size: x-large;
+					    padding: 0 32px 0 32px; 
+					}
+
+					> .unpublished{
+						color: currentColor;
+						cursor: not-allowed;
+						text-decoration: none;
+					} 
+    			}
+    		}
+
 			.published {
 				display: flex;
     			justify-content: space-between;
 
     			> .publication {
     				font-weight: 600;
+    				display: flex;
+    				align-items: center;
     			}
+
+		       > .authors {
+			    width: 80%;
+			    text-transform: none;
+			  }
+
 			}
 
 			.abstract {
