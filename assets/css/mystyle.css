@@ -498,6 +498,9 @@ ul.nav-pills {
         font-weight: 600;
         display: flex;
         align-items: center; }
+        #research > header > ul.posts .published > .publication a {
+          border-bottom: none;
+          text-decoration: none; }
       #research > header > ul.posts .published > .authors {
         width: 80%;
         text-transform: none; }
