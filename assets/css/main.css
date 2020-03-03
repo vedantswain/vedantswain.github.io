@@ -2232,7 +2232,7 @@ body {
     left: 50%;
     transform: translateX(-50%); }
     #header h2:before {
-      content: "Ubicomp X Comp Social Science Researcher"; }
+      content: "CS + X Researcher"; }
   @media screen and (max-width: 480px) {
     #header h2 {
       display: none; } }
@@ -2534,5 +2534,3 @@ body {
   @media screen and (max-width: 736px) {
     #menu > * {
       padding: 1em; } }
-
-/*# sourceMappingURL=main.css.map */
