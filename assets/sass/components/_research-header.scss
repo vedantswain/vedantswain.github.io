@@ -16,9 +16,22 @@
     				display: flex;
     				justify-content: space-between;
 
+    				> a{
+    					flex-grow: 1
+    				}
+
     				> .read-paper{
 					    font-size: x-large;
 					    padding: 0 32px 0 32px; 
+					}
+
+					> .watch-video{
+					    font-size: x-large;
+					    padding: 0 0 0 8px;
+
+					    > a:hover{
+					    	text-decoration: unset;
+					    }
 					}
 
 					> .unpublished{
@@ -37,6 +50,7 @@
     				font-weight: 600;
     				display: flex;
     				align-items: center;
+    				text-align: center;
 
     				a {
     					border-bottom: none;
