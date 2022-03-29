@@ -20,9 +20,60 @@
     					flex-grow: 1
     				}
 
+    				> .award-label{
+					    padding: 4px;
+					    height: fit-content;
+					    border-radius: 8px;
+    					text-transform: none;
+    					letter-spacing: normal;
+    					font-weight: normal;
+    					min-width: 120px;
+    					margin-top: 4px;
+    					margin-left: 4px;
+
+    					&.honorable-mention{
+    						background-color: #f4b350;
+					    	color: #9f5b00;
+					    	border: solid;
+						    border-width: thin;
+    						border-color: rosybrown;
+    					}
+
+    					&.highlighted{
+						    border: solid;
+						    border-width: thin;
+						    border-color: burlywood;
+						    color: goldenrod;
+    					}
+
+    					> i{
+    						margin-right: 4px;
+    					}
+    				}
+
+    				> .paper-links{
+    					margin-left: 4px;
+    					min-width: 64px;
+    					display: flex;
+    					justify-content: flex-end;
+
+    					> .read-paper{
+					    font-size: x-large;
+						}
+
+						> .watch-video{
+						    font-size: x-large;
+						    margin: 0 8px 0 0px;
+
+						    > a:hover{
+						    	text-decoration: unset;
+						    }
+						}
+    				}
+
     				> .read-paper{
 					    font-size: x-large;
-					    padding: 0 32px 0 32px; 
+					    padding: 0 8px 0 8px; 
 					}
 
 					> .watch-video{
