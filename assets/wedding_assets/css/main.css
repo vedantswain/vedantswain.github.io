@@ -5706,6 +5706,8 @@ body.is-preload .gallery.onload-fade-in article .image img {
   display: block;
   width: 100%;
   border-radius: 0;
+  object-fit: cover;
+  height: 16em;
 }
 .gallery.style2 article .caption {
   -moz-align-items: center;
