@@ -17,10 +17,10 @@
 
 		<!-- Menu -->
 		<div class="topnav" id="myTopnav">
-		  <a href="#home">Home</a>
+		  <a href="#home" onclick="hideMenu()" class="smooth-scroll">Home</a>
 		  <a href="#story" class="smooth-scroll-middle" onclick="hideMenu()">Our Story</a>
-		  <a href="#story" onclick="hideMenu()">Timeline & Schedule</a>
-		  <a href="#story" onclick="hideMenu()">Accommodation</a>
+		  <a href="#schedule" class="smooth-scroll" onclick="hideMenu()">Schedule</a>
+		  <a href="#venue"class="smooth-scroll"  onclick="hideMenu()">Venue</a>
 		  <a href="#story" onclick="hideMenu()">Registry</a>
 		  <a href="#faq" class="smooth-scroll" onclick="hideMenu()">FAQ</a>
 		  <a href="javascript:void(0);" class="icon" onclick="resizeMenu()">
@@ -29,7 +29,7 @@
 		</div>
 
 		<!-- Wrapper -->
-			<div id="wrapper" class="divided">
+			<div id="wrapper" class="divided" id="home">
 
 				<!-- One -->
 					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
@@ -109,32 +109,99 @@
 						<!-- Gallery -->
 							<div class="gallery style2 medium lightbox onscroll-fade-in">
 								<article>
-									<a href="images/wedding_images/hands_1.jpg" class="image">
-										<img src="images/wedding_images/hands_1.jpg" alt=""/>
+									<a href="images/wedding_images/together_1.jpg" class="image">
+										<img src="images/wedding_images/together_1.jpg" alt=""/>
 									</a>
 								</article>
 								<article>
-									<a href="images/wedding_images/hands_2.jpeg" class="image">
-										<img src="images/wedding_images/hands_2.jpeg" alt="" />
+									<a href="images/wedding_images/together_2.jpeg" class="image">
+										<img src="images/wedding_images/together_2.jpg" alt="" />
 									</a>
 								</article>
 								<article>
-									<a href="images/wedding_images/hands_4.jpeg" class="image">
-										<img src="images/wedding_images/hands_4.jpeg" alt="" />
+									<a href="images/wedding_images/together_4.jpeg" class="image">
+										<img src="images/wedding_images/together_4.jpg" alt="" />
 									</a>
 								</article>
 								<article>
-									<a href="images/wedding_images/hands_5.jpeg" class="image">
-										<img src="images/wedding_images/hands_5.jpeg" alt="" />
+									<a href="images/wedding_images/together_5.jpeg" class="image">
+										<img src="images/wedding_images/together_5.jpg" alt="" />
 									</a>
 								</article>
 								<article>
-									<a href="images/wedding_images/hands_6.jpeg" class="image">
-										<img src="images/wedding_images/hands_6.jpeg" alt="" />
+									<a href="images/wedding_images/together_6.jpeg" class="image">
+										<img src="images/wedding_images/together_6.jpg" alt="" />
+									</a>
+								</article>
+								<article>
+									<a href="images/wedding_images/together_7.jpeg" class="image">
+										<img src="images/wedding_images/together_7.jpg" alt="" />
+									</a>
+								</article>
+								<article>
+									<a href="images/wedding_images/together_8.jpeg" class="image">
+										<img src="images/wedding_images/together_8.jpg" alt="" />
 									</a>
 								</article>
 							</div>
 
+					</section>
+
+					<section class="wrapper style1 align-center" id="schedule">
+						<h2 style="margin-top: 20px;">Schedule</h2>
+
+						<div class="timeline">
+						  <div class="container left">
+						    <div class="content">
+						      <p><b>4:00pm</b> 🤗 <br>Guests arrive</p>
+						    </div>
+						  </div>
+						  <div class="container right">
+						    <div class="content">
+						      <p> 💍 <b>4:30pm</b><br>Wedding ceremony.</p>
+						    </div>
+						  </div>
+						  <div class="container left">
+						    <div class="content">
+						      <p><b>5:00pm</b> 🍸 <br>Cocktail hour</p>
+						    </div>
+						  </div>
+						  <div class="container right">
+						    <div class="content">
+						      <p> 🍾 <b>6:00pm</b><br>Welcome toast.</p>
+						    </div>
+						  </div>
+  						  <div class="container left">
+						    <div class="content">
+						      <p><b>6:15pm</b> 💃🏻🕺🏾 <br>First dance</p>
+						    </div>
+						  </div>
+						  <div class="container right">
+						    <div class="content">
+						      <p> 🍽🍷 <b>6:30pm</b><br>Dinner is served.</p>
+						    </div>
+						  </div>
+
+  						  <div class="container left">
+						    <div class="content">
+						      <p><b>7:00pm</b> 🍰👯🔥 <br>Cake, dancing, and party!</p>
+						    </div>
+						  </div>
+						  <div class="container right">
+						    <div class="content">
+						      <p> 🎊🎉✨ <b>9:30pm</b><br>Send off.</p>
+						    </div>
+						  </div>
+						</div>
+					</section>
+
+					<section class="spotlight style1 orient-left content-align-left image-position-center" id="venue">
+						<div class="content">
+						<h2>Venue</h2>
+						Our wedding ceremony and reception will take place at The Wimbish House. 
+						This is a historic mansion located in midtown. Although originally owned by the Wimbish family, it has been the historic meeting place for the Atlanta Women's Club for over 100 years. For our wedding, we wanted to find a nice cozy spot that everyone can comfortably reach.</div>
+						<div class=image><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13264.091678106763!2d-84.383321!3d33.7859063!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2f405cac062eb57f!2sThe%20Wimbish%20House!5e0!3m2!1sen!2sus!4v1656467845241!5m2!1sen!2sus" width="600" height="450" style="border:0;height:350px;max-width: 100%;padding:20px" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+						</div>
 					</section>
 
 					<section class="wrapper style1 align-center" id="faq">
@@ -164,6 +231,35 @@
 						</section>
 
 					</section>
+
+						<!-- Gallery -->
+							<div class="gallery style2 medium lightbox onscroll-fade-in">
+								<article>
+									<a href="images/wedding_images/hands_1.jpg" class="image">
+										<img src="images/wedding_images/hands_1.jpg" alt=""/>
+									</a>
+								</article>
+								<article>
+									<a href="images/wedding_images/hands_2.jpeg" class="image">
+										<img src="images/wedding_images/hands_2.jpeg" alt="" />
+									</a>
+								</article>
+								<article>
+									<a href="images/wedding_images/hands_4.jpeg" class="image">
+										<img src="images/wedding_images/hands_4.jpeg" alt="" />
+									</a>
+								</article>
+								<article>
+									<a href="images/wedding_images/hands_5.jpeg" class="image">
+										<img src="images/wedding_images/hands_5.jpeg" alt="" />
+									</a>
+								</article>
+								<article>
+									<a href="images/wedding_images/hands_6.jpeg" class="image">
+										<img src="images/wedding_images/hands_6.jpeg" alt="" />
+									</a>
+								</article>
+							</div>
 
 				<!-- Seven -->
 					<section class="wrapper style1 align-center">
