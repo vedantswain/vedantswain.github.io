@@ -255,7 +255,7 @@
 			border-radius: 0;
 
 			img {
-				@include vendor('object-fit', 'cover');
+				@include vendor('object-fit', 'contain');
 				@include vendor('object-position', 'center');
 				display: block;
 				position: absolute;
@@ -955,13 +955,13 @@
 	@mixin color-spotlight($p: null) {
 		.spotlight {
 			.image {
-				background-color: transparentize(_palette($p, fg-bold), 0.875);
+				background-color: transparentize(rgba(#fff, 0.9), 1);
 			}
 
 			@if ($p != 'invert') {
 				&.invert {
 					.image {
-						background-color: transparentize(_palette(invert, fg-bold), 0.875);
+						background-color: transparentize(rgba(#fff, 0.9), 1);
 					}
 				}
 			}
