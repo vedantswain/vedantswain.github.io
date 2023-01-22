@@ -62,7 +62,7 @@
 		    transform: translateX(-50%);
 
 		    &:before{
-		    	content:"CS + X Researcher";
+		    	content:"";
 		    }
 		}
 		@include breakpoint(xsmall) {
