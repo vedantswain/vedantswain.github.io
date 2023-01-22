@@ -345,7 +345,7 @@ hr.major {
 }
 .content-flex .display-about > .description {
   margin: 0 1em 0.5em 1em;
-  flex: 1;
+  flex: 2;
   min-width: 24em;
   max-width: 48em;
 }
@@ -616,7 +616,7 @@ ul.nav-pills {
   color: #9f5b00;
   border: solid;
   border-width: thin;
-  border-color: burlywood;
+  border-color: rosybrown;
 }
 #research > header > ul.posts > li h3 > .award-label.highlighted {
   border: solid;
