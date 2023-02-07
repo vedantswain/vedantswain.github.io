@@ -105,10 +105,54 @@
 			}
 		}
 
+		.pages {
+			height: inherit;
+			line-height: inherit;
+			text-align: right;
+			display: inline-block;
+
+			@include breakpoint(xsmall) {
+				display: none;
+			}
+
+			ul {
+				li {
+					border-left: solid 1px _palette(border);
+					line-height: 1;
+					margin-left: 1em;
+					padding-left: 1em;
+
+					&:first-child {
+						border-left: 0;
+						margin-left: 0;
+						padding-left: 0;
+					}
+
+					&:last-child {
+						margin-right: 1em;
+					}
+
+					a {
+						border-bottom: 0;
+						font-family: _font(family-heading);
+						font-size: 0.7em;
+						font-weight: _font(weight-heading);
+						letter-spacing: _font(kerning-heading);
+						text-transform: uppercase;
+					}
+				}
+			}
+		}
+
 		.main {
 			height: inherit;
 			line-height: inherit;
 			text-align: right;
+			display: none;
+
+			@include breakpoint(xsmall) {
+				display: inline-block;
+			}
 
 			ul {
 				height: inherit;
@@ -181,7 +225,7 @@
 			}
 		}
 
-		@include breakpoint(medium) {
+		@include breakpoint(small) {
 			.links {
 				display: none;
 			}
