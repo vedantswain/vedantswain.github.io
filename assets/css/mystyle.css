@@ -596,6 +596,8 @@ ul.nav-pills {
 #research > header > ul.posts > li h3 {
   display: flex;
   justify-content: space-between;
+  text-transform: none;
+  letter-spacing: 0.1em;
 }
 #research > header > ul.posts > li h3 > a {
   flex-grow: 1;
@@ -676,6 +678,7 @@ ul.nav-pills {
 #research > header > ul.posts .published > .authors {
   width: 80%;
   text-transform: none;
+  letter-spacing: 0.1em;
 }
 #research > header > ul.posts .abstract {
   font-size: smaller;
