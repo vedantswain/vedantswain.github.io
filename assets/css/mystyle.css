@@ -613,8 +613,15 @@ ul.nav-pills {
   margin-top: 4px;
   margin-left: 4px;
 }
-#research > header > ul.posts > li h3 > .award-label.honorable-mention {
+#research > header > ul.posts > li h3 > .award-label.best-paper {
   background-color: #f4b350;
+  color: #9f5b00;
+  border: solid;
+  border-width: thin;
+  border-color: rosybrown;
+}
+#research > header > ul.posts > li h3 > .award-label.honorable-mention {
+  background-color: #e98d00;
   color: #9f5b00;
   border: solid;
   border-width: thin;
