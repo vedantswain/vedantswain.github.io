@@ -1,0 +1,130 @@
+# Include latest items on top of the stack.
+
+- year: 2024
+  author: "Vedant Das Swain, Koustuv Saha"
+  title: "Teacher, Trainer, Counsel, Spy: How Generative AI can Bridge or Widen the Gaps in Worker-Centric Digital Phenotyping of Wellbeing"
+  venue: "CHIWORK 2024"
+  external_link: "https://doi.org/10.1145/3663384.3663401"
+  internal_link: "./papers/CHIWORK24_GenAIWorkerWellbeing.pdf"
+
+- year: 2024
+  author: "Vedant Das Swain, Lan Gao, Abhirup Mondal, Gregory D. Abowd, Munmun De Choudhury"
+  title: "Sensible and Sensitive AI for Worker Wellbeing: Factors that Inform Adoption and Resistance for Information Workers"
+  venue: "CHI 2024"
+  external_link: "https://doi.org/10.1145/3613904.3642716"
+  internal_link: "./papers/CHI24_SensibleandSensitive.pdf"
+  award: "Best Paper"
+
+- year: 2023
+  author: "Vedant Das Swain, Hyeokhyen Kwon, Sonia Sargolzaei, Bahador Saket, Mehrab Bin Morshed, Kathy Tran, Devashru Patel, Yexin Tian, Joshua Philipose, Yulai Cui, Thomas Plötz, Munmun De Choudhury, Gregory D. Abowd"
+  title: "Leveraging WiFi Network Logs to Infer Student Collocation and its Relationship with Academic Performance"
+  venue: "EPJ Data Sc. 2023"
+  external_link: "https://doi.org/10.1140/epjds/s13688-023-00398-2"
+  internal_link: "./papers/EPJ23_WiFiAcad.pdf"
+
+- year: 2023
+  author: "Vedant Das Swain, Jiajia Xie, Maanit Madan, Sonia Sargolzaei, James Cai, Munmun De Choudhury, Gregory D. Abowd, Lauren N. Steimle, B. Aditya Prakash"
+  title: "Empirical networks for localized COVID-19 interventions using WiFi infrastructure at university campuses"
+  venue: "Frontiers DH 2023"
+  external_link: "https://doi.org/10.3389/fdgth.2023.1060828"
+  internal_link: "./papers/Frontiers23_WiMob.pdf"
+
+- year: 2023
+  author: "Vedant Das Swain, Lan Gao, William Wood, Srikruthi C Matli, Gregory D. Abowd, Munmun De Choudhury"
+  title: "Algorithmic Power or Punishment: Information Worker Perspectives on Passive Sensing Enabled AI Phenotyping of Performance and Wellbeing"
+  venue: "CHI 2023"
+  external_link: "https://doi.org/10.1145/3544548.3581376"
+  internal_link: "./papers/CHI23_PowerOrPunish.pdf"
+
+- year: 2023
+  author: "Vedant Das Swain, Javier Hernandez, Brian Houck, Koustuv Saha, Jina Suh, Ahad Chaudhry, Tenny Cho, Wendy Guo, Shamsi Iqbal, Mary Czerwinski"
+  title: "Focused Time Saves Nine: Evaluating Computer-Assisted Protected Time for Hybrid Information Work"
+  venue: "CHI 2023"
+  external_link: "https://doi.org/10.1145/3544548.3581326"
+  internal_link: "./papers/CHI23_FocusedTime.pdf"
+
+- year: 2022
+  author: "Vedant Das Swain, Victor Chen, Shrija Mishra, Stephen M. Mattingly, Gregory D. Abowd, Munmun De Choudhury"
+  title: "Semantic Gap in Predicting Mental Wellbeing through Passive Sensing"
+  venue: "CHI 2022"
+  external_link: "https://doi.org/10.1145/3491102.3502037"
+  internal_link: "./papers/CHI22_SemanticGap.pdf"
+  award: "Best Paper Honorable Mention"
+
+- year: 2022
+  author: "Kaely Hall, Dong Whi Yoo, Wenrui Zhang, Mehrab Bin Morshed, Vedant Das Swain, Gregory D. Abowd, Munmun De Choudhury, Alex Endert, John Stasko, Jennifer G Kim"
+  title: "Supporting the Contact Tracing Process with WiFi Location Data: Opportunities and Challenges"
+  venue: "CHI 2022"
+  external_link: "https://doi.org/10.1145/3491102.3517703"
+  
+
+- year: 2022
+  author: "Vedant Das Swain, Shane Williams, Adam Fourney, Shamsi T Iqbal"
+  title: "Two Birds with One Phone: The Role of Mobile Use in the Daily Practices of Remote Information Work"
+  venue: "CHIWORK 2022"
+  external_link: "https://doi.org/10.1145/3533406.3533416"
+  internal_link: "./papers/CHIWORK22_TwoBirdsOnePhone.pdf"
+
+- year: 2021
+  author: "Koustuv Saha, Ted Grover, Stephen M. Mattingly, Vedant Das Swain, Pranshu Gupta, Gonzalo J. Martinez, Pablo Robles-Granda, Gloria Mark, Aaron Striegel, Munmun De Choudhury"
+  title: "Person-Centered Predictions of Psychological Constructs with Social Media Contextualized by Multimodal Sensing"
+  venue: "IMWUT 2021"
+  external_link: "https://doi.org/10.1145/3448117"
+  
+
+- year: 2020
+  author: "Vedant Das Swain, Koustuv Saha, Gregory D. Abowd, Munmun De Choudhury"
+  title: "Social and Ubiquitous Technologies for Remote Worker Wellbeing and Productivity in a Post-Pandemic World"
+  venue: "NFW 2020"
+  external_link: "https://www.microsoft.com/en-us/research/publication/social-and-ubiquitous-technologies-for-remote-worker-wellbeing-and-productivity-in-a-post-pandemic-world/"
+  internal_link: "./papers/NFW20_SocialUbiquitousTech.pdf"
+
+- year: 2020
+  author: "Vedant Das Swain, Koustuv Saha, Manikanta D. Reddy, Hemang Rajvanshy, Gregory D. Abowd, Munmun De Choudhury"
+  title: "Modeling Organizational Culture with Workplace Experiences Shared on Glassdoor"
+  venue: "CHI 2020"
+  external_link: "http://dx.doi.org/10.1145/3313831.3376793"
+  internal_link: "./papers/CHI20_GlassdoorCulture.pdf"
+
+
+- year: 2019
+  author: "Vedant Das Swain, Koustuv Saha, Hemang Rajvanshy, Anusha Sirigiri, Julie M. Gregg, Suwen Lin, Gonzalo J. Martinez, Stephen M. Mattingly, Shayan Mirjafari, Raghu Mulukutla, Subigya Nepal, Kari Anne Nies, Manikanta D. Reddy, Pablo Robles-Granda, Andrew T. Campbell, Nitesh V. Chawla, Sidney K. D'Mello, Anind K. Dey, Kaifeng Jiang, Qiang Liu, Gloria Mark, Ed Moskal, Aaron Striegel, Louis Tay, Gregory D. Abowd, Munmun De Choudhury"
+  title: "A Multisensor Person-Centered Approach to Understand the Role of Daily Activities in Job Performance with Organizational Personas"
+  venue: "IMWUT 2019"
+  external_link: "https://dl.acm.org/citation.cfm?doid=3375704.3369828"
+  internal_link: "./papers/IMWUT2019_organizational_personas.pdf"
+
+- year: 2019
+  author: "Shayan Mirjafari, Kizito Masaba, Ted Grover, Weichen Wang, W., Pino Audia, Andrew T. Campbell, Nitesh V. Chawla, Vedant Das Swain, Munmun De Choudhury, Anind K. Dey, Sidney K. D'Mello, Ge Gao, Julie M. Gregg, Krithika Jagannath, Kaifeng Jiang, Suwen Lin, Qiang Liu, Gloria Mark, Gonzalo J. Martinez, Stephen M. Mattingly, Edward Moskal, Raghu Mulukutla, Subigya Nepal, Kari Nies, Manikanta D. Reddy, Pablo Robles-Granda, Koustuv Saha, Anusha Sirigiri, Aaron Striegel"
+  title: "Differentiating Higher and Lower Job Performers in the Workplace Using Mobile Sensing"
+  venue: "IMWUT 2019"
+  external_link: "https://dl.acm.org/citation.cfm?id=3328908"
+  
+
+- year: 2019
+  author: "Stephen M. Mattingly, Julie M. Gregg, Pino Audia, Ayse Elvan Bayraktaraglu, Andrew T. Campbell, Nitesh V. Chawla, Vedant Das Swain, Munmun De Choudhury, Sidney K. D'Mello, Anind K. Dey, Ge Gao, Krithika Jagannath, Kaifeng Jiang, Suwen Lin, Qiang Liu, Gloria Mark, Gonzalo J. Martinez, Kizito Masaba, Shayan Mirjafari, Edward Moskal, Raghu Mulukutla, Kari Nies, Manikanta D. Reddy, Pablo Robles-Granda, Koustuv Saha, Anusha Sirigiri, Aaron Striegel"
+  title: "The Tesserae Project: Large-Scale, Longitudinal, In Situ, Multimodal Sensing of Information Workers"
+  venue: "CHI 2019"
+  external_link: "https://dl.acm.org/citation.cfm?id=3299041"
+  
+
+- year: 2019
+  author: "Vedant Das Swain, Manikanta D. Reddy, Kari Anne Nies, Louis Tay, Munmun De Choudhury, Gregory D. Abowd"
+  title: "Birds of a Feather Clock Together: A Study of Person-Organization Fit Through Latent Activity Routines"
+  venue: "CSCW 2019"
+  external_link: "https://dl.acm.org/citation.cfm?doid=3371885.3359267"
+  internal_link: "./papers/CSCW19_POFitRoutines.pdf"
+
+- year: 2019
+  author: "Koustuv Saha, Manikanta D. Reddy, Vedant Das Swain, Julie M. Gregg, Ted Grover, Suwen Lin, Gonzalo J. Martinez, Stephen M. Mattingly, Shayan Mirjafari, Raghu Mulukutla, Kari Anne Nies, Pablo Robles-Granda, Anusha Sirigiri, Dong Whi Yoo, Pino Audia, Andrew T. Campbell, Nitesh V. Chawla, Sidney K. D'Mello, Anind K. Dey, Kaifeng Jiang, Qiang Liu, Gloria Mark, Ed Moskal, Aaron Striegel, Munmun De Choudhury"
+  title: "Imputing Missing Social Media Data Stream in Multisensor Studies of Human Behavior"
+  venue: "ACII 2019"
+  external_link: "https://www.researchgate.net/publication/334669683_Imputing_Missing_Social_Media_Data_Stream_in_Multisensor_Studies_of_Human_Behavior"
+  
+
+- year: 2018
+  author: "Larry Chan, Vedant Das Swain, Christina Kelly, Kaya de Barbaro, Gregory D. Abowd, Lauren Wilcox"
+  title: "Students’ Experiences with Ecological Momentary Assessment Tools to Report on Emotional Well-being"
+  venue: "IMWUT 2018"
+  external_link: "https://dl.acm.org/citation.cfm?id=3191735"
+  internal_link: "https://www.researchgate.net/profile/Lauren_Wilcox2/publication/324045764_Students%27_Experiences_with_Ecological_Momentary_Assessment_Tools_to_Report_on_Emotional_Well-being/links/5afa700a458515c00b6bdc6e/Students-Experiences-with-Ecological-Momentary-Assessment-Tools-to-Report-on-Emotional-Well-being.pdf"

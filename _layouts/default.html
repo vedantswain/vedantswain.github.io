@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ site.name }} | {{ page.title }}</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css2?family=Archivo&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="icon" href="{{ site.favicon }}" type="image/png" />
+    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.googletag_id}}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '{{ site.googletag_id}}');
+    </script>
+
+  {% seo %}
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="masthead">
+      {% include navigation.md %}
+    </div>
+
+    <div class="wrapper">
+      <header>
+        <div class="info-basic">
+
+          {% if site.avatar %}
+          <img src="{{site.avatar | relative_url}}" alt="avatar" />
+          {% endif %}
+          <br>
+
+          <div class="role">
+            {% if site.position %}
+            <position >{{ site.position }}</position>
+            <br>
+            {% endif %}
+            {% if site.affiliation %}
+            <affiliation>{{ site.affiliation }}</a></affiliation>
+            <br>
+            {% endif %}
+          </div>
+          
+        </div>
+        <br>
+        <div class="social-icons">
+          {% if site.email %}
+          <a style="margin: 0 5px 0 0" href="mailto:{{ site.email }}">
+            <i class="fa-solid fa-envelope" style="font-size:1.1rem"></i>
+          </a>
+          {% endif %}
+
+          {% if site.google_scholar %}
+          <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
+            <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
+          </a>  
+          {% endif %}
+
+          {% if site.cv_link %}
+          <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
+            <i class="ai ai-cv" style="font-size:1.4rem;"></i>
+          </a>
+          {% endif %}
+
+
+          {% if site.linkedin %}
+          <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
+            <i class="fab fa-linkedin" style="font-size:1.1rem"></i>
+          </a>
+          {% endif %}
+
+          {% if site.twitter %}
+          <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
+            <i class="fab fa-x-twitter" style="font-size:1.1rem"></i>
+          </a>
+          {% endif %}
+        </div>
+        <br>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        {% include activity.md %}
+        <p>
+          <small> 
+            &copy; {{ site.name }} 
+            | Powered by <a href="https://jekyllrb.com/">Jekyll</a> x <a href="https://github.com/pages-themes/minimal">Minimal</a>
+            <br> Updated: {{ "now" | date: "%Y-%m-%d" }}
+          </small>
+        </p>
+      </footer>
+    </div>
+
+    <!-- Custom JS -->
+    <script src="/assets/js/main.js"></script>
+  </body>
+</html>
