@@ -1,0 +1,11 @@
+- description: "Pachinko by Min Jin Lee"
+  type: reading
+  icon: "fa-solid fa-book"
+
+- description: "Kagurabachi by Takeru Hokazono"
+  type: reading
+  icon: "fa-solid fa-book"
+
+- description: "Tears of the Kingdom"
+  type: gaming
+  icon: "fa-solid fa-gamepad"

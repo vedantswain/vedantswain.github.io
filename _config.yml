@@ -1,0 +1,38 @@
+domain: vedantswain.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://vedantswain.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-remote-theme 
+  - jekyll-scholar
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+
+# Content configuration
+## Basic Information
+name: Vedant Das Swain
+description: Vedant Das Swain's personal website
+position: Distinguished Research Fellow
+affiliation: Northeastern University
+email: v.dasswain@northeastern.edu
+
+## Social Media
+google_scholar: https://scholar.google.com/citations?user=x7mC-94AAAAJ&hl=en
+cv_link: assets/files/vedantswain_resume.pdf
+linkedin: https://www.linkedin.com/in/vedant-das-swain/
+twitter: https://twitter.com/VedantNeedMoEdu
+
+## Images (e.g., your profile picture and your website's favicon) 
+avatar: assets/images/avatar.jpg
+favicon: assets/images/favicon.ico
+
+## Tracking
+googletag_id: G-ZFVZQV5NHX

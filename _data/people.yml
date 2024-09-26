@@ -1,0 +1,37 @@
+students:
+- name: "Alex Jeon"
+  link: https://www.linkedin.com/in/alexjyc/
+  role: "Research Engineer"
+- name: "Joy Zhong"
+  link: https://www.linkedin.com/in/max-zhong/
+  role: "Research Assistant"
+- name: "Olivia Wang"
+  link: https://oliviawangdesign.com/
+  role: "UX Design & Research Co-op"
+- name: "Win Tongtawee"
+  link: https://wintongtawee.dev/
+  role: "Full Stack Developer Co-op"
+- name: "Joyce Hsu"
+  link: https://www.linkedin.com/in/jo-hsu/
+  role: "Khoury Research Apprentice"
+
+collaborators:
+- name: "Varun Mishra"
+  link: https://varunmishra.com/
+  affiliation: "Northeastern University"
+- name: "Javier Hernandez"
+  link: https://www.microsoft.com/en-us/research/people/javierh/
+  affiliation: "Microsoft"
+- name: "Uichin Lee"
+  link: https://ic.kaist.ac.kr/
+  affiliation: "KAIST"
+- name: "Nick Jacobson"
+  link: https://www.nicholasjacobson.com/
+  affiliation: "Dartmouth"
+- name: "Koustuv Saha"
+  link: https://koustuv.com/
+  affiliation: "UIUC"
+- name: "Jennifer G. Kim"
+  link: https://faculty.cc.gatech.edu/~jkim693/
+  affiliation: "Georgia Tech"
+  

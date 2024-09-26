@@ -1,0 +1,106 @@
+# Include latest items on top of the stack. Only the latest 10 items will be displayed on the homepage.
+
+- date: "11/05/24"
+  description: "Presented at CHI 2024 in Honolulu"
+  icon: "fa-solid fa-microphone"
+  color: "rosybrown"
+
+- date: "01/04/24"
+  description: "Received pilot funding from NIDA/NIH through CTBH"
+  icon: "fa-solid fa-rocket"
+  link: "https://www.c4tbh.org/funded-pilot/incorporating-patient-self-presentation-in-digital-phenotyping-of-mental-health-a-patient-in-the-loop-approach-to-passive-sensing/"
+  color: "firebrick"
+
+- date: "04/25/24"
+  description: "Best paper award at CHI 2024"
+  icon: "fa-solid fa-trophy"
+  color: "goldenrod"
+
+- date: "03/04/24"
+  description: "Attended the HealthNext 2024 summit at CornellTech"
+  icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
+
+- date: "01/19/24"
+  description: "First-author paper accepted to CHI 2024"
+  icon: "fa-solid fa-file"
+  color: "darkorange"
+
+- date: "01/31/24"
+  description: "Received pilot funding from Microsoft's AFMR program"
+  icon: "fa-solid fa-rocket"
+  link: "https://www.microsoft.com/en-us/research/project/afmr-cognition-and-societal-benefits/"
+  color: "firebrick"
+
+- date: "10/08/23"
+  description: "Attended Ubicomp/ISWC 2023 in Cancun"
+  icon: "fa-solid fa-plane"
+  color: "rosybrown"
+
+- date: "09/19/23"
+  description: "Attended Digital Mental Health & AI Symposium at Dartmouth"
+  icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
+
+- date: "09/05/23"
+  description: "Started postdoc at Northeastern University as a Distinguished Research Fellow"
+  icon: "fa-solid fa-volume-high"
+  color: "darkorange"
+
+- date: "07/07/23"
+  description: "Successfully defended my PhD thesis"
+  icon: "fa-solid fa-graduation-cap"
+  link: "./papers/GT2023-DASSWAIN-DISSERTATION.pdf"
+  color: "darkgoldenrod"
+
+- date: "07/07/23"
+  description: "First author paper accepted to EPJ Data Science"
+  icon: "fa-solid fa-file"
+
+- date: "05/16/23"
+  description: "First author paper accepted to Frontiers Digital Health"
+  icon: "fa-solid fa-file"
+
+- date: "01/14/23"
+  description: "Two first-author papers accepted to CHI 2023"
+  icon: "fa-solid fa-file"
+
+- date: "11/15/22"
+  description: "Actively seeking Assistant Prof. (TT) positions"
+  icon: "fa-solid fa-magnifying-glass"
+
+- date: "10/31/22"
+  description: "Awarded as Foley Scholar for 2022 by GVU, Georgia Tech"
+  icon: "fa-solid fa-medal"
+
+- date: "09/26/22"
+  description: "Presented at Learning Planet Institute, Paris"
+  icon: "fa-solid fa-microphone"
+
+- date: "09/14/22"
+  description: "Awarded as Gaetano Borriello Outstanding Student at Ubicomp 2022"
+  icon: "fa-solid fa-medal"
+
+- date: "07/19/22"
+  description: "Presented at Data Science for Mental Health, The Alan Turing Institute"
+  icon: "fa-solid fa-microphone"
+
+- date: "06/08/22"
+  description: "Presented at CHIWORK 22"
+  icon: "fa-solid fa-microphone"
+
+- date: "05/11/22"
+  description: "Started my internship at Microsoft Research"
+  icon: "fa-solid fa-desktop"
+
+- date: "05/03/22"
+  description: "Presented at CHI 22, New Orleans"
+  icon: "fa-solid fa-microphone"
+
+- date: "03/29/22"
+  description: "Awarded Honorable Mention for our paper at CHI 2022"
+  icon: "fa-solid fa-medal"
+
+- date: "01/26/22"
+  description: "Passed my PhD Thesis Proposal"
+  icon: "fa-solid fa-rocket"
