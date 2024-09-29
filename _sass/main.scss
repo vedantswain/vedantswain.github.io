@@ -9,6 +9,7 @@ $padding-offset: 2rem;
 body {
   padding: 0;
   margin: 0;
+  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 h3 {
@@ -28,7 +29,7 @@ a {
 
 
 .wrapper {
-  width: 1040px;
+  // width: 1040px;
   margin: auto;
 
   header, section{
@@ -37,14 +38,10 @@ a {
     padding-right: $padding-offset;
   }
 
-  section{
-    width: 680px;
+  // section{
+  //   // width: 680px;
 
-    p {
-      font-size: small;
-
-    }
-  }
+  // }
 }
 
 footer {
@@ -132,7 +129,6 @@ footer {
 }
 
 .news-item {
-  font-size: small;
   // first td in the row should have text-align center
   td:first-child {
     text-align: center;
@@ -147,7 +143,6 @@ footer {
   margin-top: 1rem;
   
   .paper-item {
-    font-size: small;
     margin-bottom: 0.5em;
 
     span:first-child {
@@ -162,28 +157,28 @@ footer {
 
 
 // Responsiveness
-@media (max-width: 912px) {
-  header {
-    width: 16rem;
-    text-align: center;
-    margin: auto;
-    padding-right: unset;
-  }
-}
+// @media (max-width: 912px) {
+//   header {
+//     width: 16rem;
+//     text-align: center;
+//     margin: auto;
+//     padding-right: unset;
+//   }
+// }
 
-@media (max-width: 960px) {
-  div.wrapper {
-    width: fit-content;
+// @media (max-width: 960px) {
+//   div.wrapper {
+//     width: fit-content;
     
-    section {
-      padding-top: $padding-offset;
-    }
-  }
-  .masthead nav {
-    width: 100%;
-    a:last-child {
-      margin-right: 4rem;
-    }
-  }
+//     section {
+//       padding-top: $padding-offset;
+//     }
+//   }
+//   .masthead nav {
+//     width: 100%;
+//     a:last-child {
+//       margin-right: 4rem;
+//     }
+//   }
 
-}
+// }
