@@ -5,6 +5,7 @@ $border-color: rgb(229, 229, 229);
 
 $padding-offset: 2rem;
 
+
 // Layout
 body {
   padding: 0;
@@ -27,9 +28,8 @@ a {
   }
 }
 
-
 .wrapper {
-  // width: 1040px;
+  width: 1040px;
   margin: auto;
 
   header, section{
@@ -38,10 +38,9 @@ a {
     padding-right: $padding-offset;
   }
 
-  // section{
-  //   // width: 680px;
-
-  // }
+  section {
+    width: 680px
+  }
 }
 
 footer {
@@ -157,28 +156,18 @@ footer {
 
 
 // Responsiveness
-// @media (max-width: 912px) {
-//   header {
-//     width: 16rem;
-//     text-align: center;
-//     margin: auto;
-//     padding-right: unset;
-//   }
-// }
+@media (max-width: 960px) {
+  header {
+      width: 16rem;
+      text-align: center;
+      margin: auto;
+      padding-right: unset;
+  }
+}
 
-// @media (max-width: 960px) {
-//   div.wrapper {
-//     width: fit-content;
-    
-//     section {
-//       padding-top: $padding-offset;
-//     }
-//   }
-//   .masthead nav {
-//     width: 100%;
-//     a:last-child {
-//       margin-right: 4rem;
-//     }
-//   }
-
-// }
+@media print, screen and (max-width: 960px) {
+  .wrapper section {
+    padding-top: $padding-offset;
+    width: auto;
+  }
+}

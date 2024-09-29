@@ -221,8 +221,9 @@ h3 { padding-top: 0.5rem; }
 a { color: #343434; text-decoration: underline; text-decoration-style: dotted; }
 a:hover { text-decoration: underline; font-weight: normal; color: #e79a16; }
 
-.wrapper { margin: auto; }
+.wrapper { width: 1040px; margin: auto; }
 .wrapper header, .wrapper section { padding-top: 8rem; padding-left: 2rem; padding-right: 2rem; }
+.wrapper section { width: 680px; }
 
 footer { text-align: center; padding: 0 2rem; }
 
@@ -251,3 +252,6 @@ footer { text-align: center; padding: 0 2rem; }
 .papers .paper-item { margin-bottom: 0.5em; }
 .papers .paper-item span:first-child { font-weight: 700; }
 .papers .paper-item i { margin-left: 4px; }
+
+@media (max-width: 960px) { header { width: 16rem; text-align: center; margin: auto; padding-right: unset; } }
+@media print, screen and (max-width: 960px) { .wrapper section { padding-top: 2rem; width: auto; } }
