@@ -1,20 +1,30 @@
 # Include latest items on top of the stack. Only the latest 10 items will be displayed on the homepage.
 
-- date: "11/05/24"
+- date: "07/09/24"
+  description: "Co-authored paper accepted to ACII 2024"
+  icon: "fa-solid fa-file"
+  color: "darkorange"
+
+- date: "06/16/23"
+  description: "Attended HCIC 2024 Annual Meeting"
+  icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
+
+- date: "05/11/24"
   description: "Presented at CHI 2024 in Honolulu"
   icon: "fa-solid fa-microphone"
   color: "rosybrown"
+
+- date: "04/25/24"
+  description: "Best paper award at CHI 2024"
+  icon: "fa-solid fa-trophy"
+  color: "goldenrod"
 
 - date: "01/04/24"
   description: "Received pilot funding from NIDA/NIH through CTBH"
   icon: "fa-solid fa-rocket"
   link: "https://www.c4tbh.org/funded-pilot/incorporating-patient-self-presentation-in-digital-phenotyping-of-mental-health-a-patient-in-the-loop-approach-to-passive-sensing/"
   color: "firebrick"
-
-- date: "04/25/24"
-  description: "Best paper award at CHI 2024"
-  icon: "fa-solid fa-trophy"
-  color: "goldenrod"
 
 - date: "03/04/24"
   description: "Attended the HealthNext 2024 summit at CornellTech"
