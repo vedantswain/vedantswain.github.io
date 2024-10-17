@@ -1,11 +1,21 @@
 # Include latest items on top of the stack. Only the latest 10 items will be displayed on the homepage.
 
+- date: "10/11/24"
+  description: "Attended at Future of HAI & UbiComp Workshop at UNSW, Sydney"
+  icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
+
+- date: "10/08/24"
+  description: "Attended UbiComp/ISWC 2024 in Melbourne"
+  icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
+
 - date: "07/09/24"
   description: "Co-authored paper accepted to ACII 2024"
   icon: "fa-solid fa-paper-plane"
   color: "chocolate"
 
-- date: "06/16/23"
+- date: "06/16/24"
   description: "Attended HCIC 2024 Annual Meeting"
   icon: "fa-solid fa-circle-nodes"
   color: "rosybrown"
@@ -31,16 +41,16 @@
   icon: "fa-solid fa-circle-nodes"
   color: "rosybrown"
 
-- date: "01/19/24"
-  description: "First-author paper accepted to CHI 2024"
-  icon: "fa-solid fa-paper-plane"
-  color: "chocolate"
-
 - date: "01/31/24"
   description: "Received pilot funding from Microsoft's AFMR program"
   icon: "fa-solid fa-rocket"
   link: "https://www.microsoft.com/en-us/research/project/afmr-cognition-and-societal-benefits/"
   color: "firebrick"
+
+- date: "01/19/24"
+  description: "First-author paper accepted to CHI 2024"
+  icon: "fa-solid fa-paper-plane"
+  color: "chocolate"
 
 - date: "10/08/23"
   description: "Attended Ubicomp/ISWC 2023 in Cancun"

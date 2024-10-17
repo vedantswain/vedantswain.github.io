@@ -129,12 +129,16 @@ footer {
 
 .news-item {
   // first td in the row should have text-align center
-  td:first-child {
-    text-align: center;
-  }
   td {
     padding: 2px 4px;
     border-bottom: unset;
+
+    &:first-child {
+      text-align: center;
+    }
+    &:nth-child(2) {
+      font-family: "Segoe UI", monospace;
+    }
   }
 }
 

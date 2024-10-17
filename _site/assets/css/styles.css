@@ -245,8 +245,9 @@ footer { text-align: center; padding: 0 2rem; }
 
 .social-icons a:hover { transform: scale(1.1); color: #e79a16; }
 
-.news-item td:first-child { text-align: center; }
 .news-item td { padding: 2px 4px; border-bottom: unset; }
+.news-item td:first-child { text-align: center; }
+.news-item td:nth-child(2) { font-family: "Segoe UI", monospace; }
 
 .papers { margin-top: 1rem; }
 .papers .paper-item { margin-bottom: 0.5em; }
