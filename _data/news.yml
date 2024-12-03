@@ -1,4 +1,18 @@
 # Include latest items on top of the stack. Only the latest 10 items will be displayed on the homepage.
+- date: "11/22/24"
+  description: "Paper on rhythms of SDEs in hybrid work accepted to TSE"
+  icon: "fa-solid fa-paper-plane"
+  color: "chocolate"
+
+- date: "11/14/24"
+  description: "Attended CSCW 2024 at Costa Rica"
+  icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
+
+- date: "10/19/24"
+  description: "Attended Digital Health Summit at Dartmouth"
+  icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
 
 - date: "10/11/24"
   description: "Attended at Future of HAI & UbiComp Workshop at UNSW, Sydney"
@@ -11,7 +25,7 @@
   color: "rosybrown"
 
 - date: "07/09/24"
-  description: "Co-authored paper accepted to ACII 2024"
+  description: "Paper on simulating mental health ground truth accepted to ACII 2024"
   icon: "fa-solid fa-paper-plane"
   color: "chocolate"
 

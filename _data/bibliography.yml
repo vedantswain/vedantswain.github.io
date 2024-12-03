@@ -1,6 +1,12 @@
 # Include latest items on top of the stack.
 
 - year: 2024
+  author: "Javier Hernandez, Vedant Das Swain, Jina Suh, Daniel McDuff, Judith Amores, Gonzalo Ramos, Kael Rowan, Brian Houck, Shamsi Iqbal, Mary Czerwinski"
+  title: "Triple Peak Day: Work Rhythms of Software Developers in Hybrid Work"
+  venue: "IEEE Transactions on Software Engineering"
+  external_link: "https://doi.org/10.1109/TSE.2024.3504831"
+
+- year: 2024
   author: "Vedant Das Swain, Koustuv Saha"
   title: "Teacher, Trainer, Counsel, Spy: How Generative AI can Bridge or Widen the Gaps in Worker-Centric Digital Phenotyping of Wellbeing"
   venue: "CHIWORK 2024"

@@ -16,22 +16,24 @@ students:
   role: "Khoury Research Apprentice"
 
 collaborators:
-- name: "Varun Mishra"
-  link: https://varunmishra.com/
-  affiliation: "Northeastern University"
 - name: "Javier Hernandez"
   link: https://www.microsoft.com/en-us/research/people/javierh/
   affiliation: "Microsoft"
-- name: "Uichin Lee"
-  link: https://ic.kaist.ac.kr/
-  affiliation: "KAIST"
 - name: "Nick Jacobson"
   link: https://www.nicholasjacobson.com/
   affiliation: "Dartmouth"
-- name: "Koustuv Saha"
-  link: https://koustuv.com/
-  affiliation: "UIUC"
 - name: "Jennifer G. Kim"
   link: https://faculty.cc.gatech.edu/~jkim693/
   affiliation: "Georgia Tech"
-  
+- name: "Uichin Lee"
+  link: https://ic.kaist.ac.kr/
+  affiliation: "KAIST"
+- name: "Varun Mishra"
+  link: https://varunmishra.com/
+  affiliation: "Northeastern University"
+- name: "Koustuv Saha"
+  link: https://koustuv.com/
+  affiliation: "UIUC"
+- name: "Ziang Xiao"
+  link: https://www.ziangxiao.com/
+  affiliation: "Johns Hopkins"
