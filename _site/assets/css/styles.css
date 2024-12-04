@@ -236,6 +236,7 @@ footer { text-align: center; padding: 0 2rem; }
 .masthead nav a:hover { font-weight: normal; color: #e79a16; }
 .masthead nav div { display: flex; align-items: center; }
 .masthead nav h2 { margin-top: 1rem; width: 16rem; text-align: center; }
+.masthead nav .burger { display: none; }
 
 .social-icons { display: flex; justify-content: space-around; }
 
@@ -255,4 +256,9 @@ footer { text-align: center; padding: 0 2rem; }
 .papers .paper-item i { margin-left: 4px; }
 
 @media (max-width: 960px) { header { width: 16rem; text-align: center; margin: auto; padding-right: unset; } }
-@media print, screen and (max-width: 960px) { .wrapper section { padding-top: 2rem; width: auto; } }
+@media print, screen and (max-width: 960px) { .wrapper section { padding-top: 2rem; width: auto; }
+  .masthead nav { width: 100%; }
+  .masthead nav .burger { display: flex; align-items: center; margin: 0 2rem; }
+  .masthead nav .burger.hidden { display: none; }
+  .masthead nav .nav-links { display: none; flex-direction: column; gap: 10px; align-items: flex-end; }
+  .masthead nav .nav-links.open { display: flex !important; } }
