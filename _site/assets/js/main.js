@@ -13,3 +13,32 @@ document.querySelectorAll('a[href^="/#"]').forEach(anchor => {
         });
     });
 });
+
+// Toggle mobile menu
+document.querySelector('.burger').addEventListener('click', function() {
+    const navLinks = document.querySelector('.nav-links');
+    const hamburger = document.querySelector('.burger');
+    const isOpen = navLinks.classList.toggle('open');
+    hamburger.classList.toggle('hidden', isOpen);
+});
+
+document.addEventListener('click', function(event) {
+    const navLinks = document.querySelector('.nav-links');
+    const hamburger = document.querySelector('.burger');
+    const masthead = document.querySelector('.masthead');
+    const isClickInsideMast = masthead.contains(event.target);
+  
+    if (!isClickInsideMast) {
+      navLinks.classList.remove('open');
+      hamburger.classList.remove('hidden');
+    }
+  });
+  
+  document.querySelectorAll('.nav-links a').forEach(link => {
+    link.addEventListener('click', function() {
+      const navLinks = document.querySelector('.nav-links');
+      const hamburger = document.querySelector('.burger');
+      navLinks.classList.remove('open');
+      hamburger.classList.remove('hidden');
+    });
+  });

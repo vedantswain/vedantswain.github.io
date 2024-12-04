@@ -95,6 +95,10 @@ footer {
       width: 16rem;
       text-align: center;
     }
+
+    .burger {
+      display: none;
+    }
   }
 }
 
@@ -174,4 +178,31 @@ footer {
     padding-top: $padding-offset;
     width: auto;
   }
+
+  .masthead nav {
+    width: 100%;
+  
+    .burger {
+      display: flex; 
+      align-items: center;
+      margin: 0 2rem;
+    }
+
+    .burger.hidden {
+      display: none;
+    }
+
+    .nav-links {
+      display: none;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-end;
+    }
+    
+    .nav-links.open {
+      display: flex !important;
+    }
+  }
+
+
 }

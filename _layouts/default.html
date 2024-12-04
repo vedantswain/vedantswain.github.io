@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
     <link rel="icon" href="{{ site.favicon }}" type="image/png" />
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <!-- Google tag (gtag.js) -->
+    <script src="https://kit.fontawesome.com/3b2076658f.js" crossorigin="anonymous"></script>
+        <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.googletag_id}}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -82,6 +82,14 @@
           <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
             <i class="fab fa-x-twitter" style="font-size:1.1rem"></i>
           </a>
+
+          {% if site.bluesky %}
+          <a style="margin: 0 0 0 0" href="{{ site.bluesky }}">
+            <i class="fa-brands fa-bluesky" style="font-size:1.1rem"></i>
+          </a>
+          {% endif %}
+
+
           {% endif %}
         </div>
         <br>
