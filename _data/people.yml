@@ -14,6 +14,9 @@ students:
 - name: "Joyce Hsu"
   link: https://www.linkedin.com/in/jo-hsu/
   role: "Khoury Research Apprentice"
+- name: "Kimberly Do"
+  link: https://kimberlytdo.github.io/
+  role: "Research Associate"
 
 collaborators:
 - name: "Javier Hernandez"
