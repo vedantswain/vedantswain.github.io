@@ -1,3 +1,7 @@
+- description: "The Pitt"
+  type: watching
+  icon: "fa-solid fa-tv"
+
 - description: "Pachinko by Min Jin Lee"
   type: reading
   icon: "fa-solid fa-book"
@@ -6,6 +10,6 @@
   type: reading
   icon: "fa-solid fa-book"
 
-- description: "Fire Emblem: Three Houses"
+- description: "Unicorn Overlord"
   type: gaming
   icon: "fa-solid fa-gamepad"

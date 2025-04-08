@@ -1,4 +1,9 @@
 # Include latest items on top of the stack. Only the latest 10 items will be displayed on the homepage.
+- date: "03/18/25"
+  description: "Paper on empathetic AI co-pilot for emotional work accepted to CHI 2025"
+  icon: "fa-solid fa-paper-plane"
+  color: "chocolate"
+
 - date: "11/22/24"
   description: "Paper on rhythms of SDEs in hybrid work accepted to TSE"
   icon: "fa-solid fa-paper-plane"

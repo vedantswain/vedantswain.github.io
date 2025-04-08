@@ -1,10 +1,11 @@
 # Include latest items on top of the stack.
 
-- year: 2024
-  author: "Javier Hernandez, Vedant Das Swain, Jina Suh, Daniel McDuff, Judith Amores, Gonzalo Ramos, Kael Rowan, Brian Houck, Shamsi Iqbal, Mary Czerwinski"
-  title: "Triple Peak Day: Work Rhythms of Software Developers in Hybrid Work"
-  venue: "IEEE Transactions on Software Engineering"
-  external_link: "https://doi.org/10.1109/TSE.2024.3504831"
+- year: 2025
+  author: "Vedant Das Swain, Qiuyue Zhong, Jash Rajesh Parekh, Yechan Jeon, Roy Zimmermann, Mary Czerwinski, Jina Suh, Varun Mishra, Koustuv Saha, Javier Hernandez"
+  title: "AI on My Shoulder: Supporting Emotional Labor in Front-Office Roles with an LLM-based Empathetic Coworker"
+  venue: "CHI 2025"
+  external_link: "https://arxiv.org/abs/2411.02408"
+  internal_link: "./papers/CHI25_AIShoulder.pdf"
 
 - year: 2024
   author: "Vedant Das Swain, Koustuv Saha"
