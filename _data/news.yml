@@ -1,4 +1,9 @@
 # Include latest items on top of the stack. Only the latest 10 items will be displayed on the homepage.
+- date: "04/27/25"
+  description: "Attending CHI 2025 in Yokohama"
+  icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
+
 - date: "03/18/25"
   description: "Paper on empathetic AI co-pilot for emotional work accepted to CHI 2025"
   icon: "fa-solid fa-paper-plane"
@@ -10,7 +15,7 @@
   color: "chocolate"
 
 - date: "11/14/24"
-  description: "Attended CSCW 2024 at Costa Rica"
+  description: "Attended CSCW 2024 in Costa Rica"
   icon: "fa-solid fa-circle-nodes"
   color: "rosybrown"
 
