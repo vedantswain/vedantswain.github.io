@@ -1,11 +1,3 @@
-# - description: "The Pitt"
-#   type: watching
-#   icon: "fa-solid fa-tv"
-
-# - description: "Pachinko by Min Jin Lee"
-#   type: reading
-#   icon: "fa-solid fa-book"
-
 - description: "Death on Gokumon Island by Seishi Yokomizo"
   type: reading
   icon: "fa-solid fa-book"
