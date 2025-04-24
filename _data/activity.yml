@@ -1,8 +1,12 @@
-- description: "The Pitt"
-  type: watching
-  icon: "fa-solid fa-tv"
+# - description: "The Pitt"
+#   type: watching
+#   icon: "fa-solid fa-tv"
 
-- description: "Pachinko by Min Jin Lee"
+# - description: "Pachinko by Min Jin Lee"
+#   type: reading
+#   icon: "fa-solid fa-book"
+
+- description: "Death on Gokumon Island by Seishi Yokomizo"
   type: reading
   icon: "fa-solid fa-book"
 
@@ -10,6 +14,6 @@
   type: reading
   icon: "fa-solid fa-book"
 
-- description: "Unicorn Overlord"
+- description: "Astral Ascent"
   type: gaming
   icon: "fa-solid fa-gamepad"
