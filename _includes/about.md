@@ -4,6 +4,6 @@ Computing and AI is a major component of how we work. And how we work is a major
 
 I have authored several papers at top-tier venues for Human-Centered Computing, including CHI, CSCW, UbiComp/IMWUT. My papers have received awards at CHI 2022 (top 5%) and CHI 2024 (top 1%). I have also been honored with the Gaetano Borriello Outstanding Student Award and the GVU Foley Scholar Award. My research has been supported by IARPA, NSF, CDC, ORNL, and Semiconductor Research Corporation. I serve as the lead PI on grants from NIDA/NIH and Microsoft.   
 
-**I will be starting my tenure-track Assistant Professor role in a US-based R1 university in Fall 2025 (details soon).**
+**I will be joining NYU Tandon School of engineering as an  Assistant Professor in the fall (details soon).**
 Currently, I'm a [Distinguished Postdoctoral Fellow](https://www.khoury.northeastern.edu/research/postdoctoral-fellowship/) in Human-Computer Interaction and Personal Health Informatics at Northeastern University. I have a Ph.D. in Computer Science from Georgia Institute of Technology, where I was co-advised by [Prof. Munmun De Choudhury](http://www.munmund.net/) and [Prof. Gregory D. Abowd](https://coe.northeastern.edu/people/abowd-gregory/). 
 I completed my M.S. in Human Computer Interaction from Georgia Tech and my B.Tech in Computer Science & Engineering from IIIT-Delhi. 
