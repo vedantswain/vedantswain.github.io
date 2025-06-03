@@ -1,7 +1,22 @@
 # Include latest items on top of the stack. Only the latest 10 items will be displayed on the homepage.
+- date: "05/30/25"
+  description: "Talk at CTBH Dartmouth"
+  icon: "fa-solid fa-microphone"
+  color: "rosybrown"
+
+- date: "05/14/25"
+  description: "Talk at AI & Society Research, Microsoft"
+  icon: "fa-solid fa-microphone"
+  color: "rosybrown"
+
 - date: "04/27/25"
   description: "Attending CHI 2025 in Yokohama"
   icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
+
+- date: "04/09/25"
+  description: "Talk at SALT lab UIUC"
+  icon: "fa-solid fa-microphone"
   color: "rosybrown"
 
 - date: "03/18/25"
@@ -25,7 +40,7 @@
   color: "rosybrown"
 
 - date: "10/11/24"
-  description: "Attended at Future of HAI & UbiComp Workshop at UNSW, Sydney"
+  description: "Attended Future of HAI & UbiComp Workshop at UNSW, Sydney"
   icon: "fa-solid fa-circle-nodes"
   color: "rosybrown"
 
@@ -118,7 +133,7 @@
   icon: "fa-solid fa-medal"
 
 - date: "09/26/22"
-  description: "Presented at Learning Planet Institute, Paris"
+  description: "Talk at Learning Planet Institute, Paris"
   icon: "fa-solid fa-microphone"
 
 - date: "09/14/22"
@@ -126,7 +141,7 @@
   icon: "fa-solid fa-medal"
 
 - date: "07/19/22"
-  description: "Presented at Data Science for Mental Health, The Alan Turing Institute"
+  description: "Talk at Data Science for Mental Health, The Alan Turing Institute"
   icon: "fa-solid fa-microphone"
 
 - date: "06/08/22"
