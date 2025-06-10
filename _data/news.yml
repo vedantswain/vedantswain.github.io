@@ -3,17 +3,17 @@
 - date: "2025-06-16"
   description: "Attending Everyday AI and Mental Health Summit at Cornell"
   icon: "fa-solid fa-circle-nodes"
-  color: "firebrick"
+  color: "rosybrown"
 
 - date: "2025-05-30"
   description: "Talk at CTBH Dartmouth"
   icon: "fa-solid fa-microphone"
-  color: "rosybrown"
+  color: "firebrick"
 
 - date: "2025-05-14"
   description: "Talk at AI & Society Research, Microsoft"
   icon: "fa-solid fa-microphone"
-  color: "rosybrown"
+  color: "firebrick"
 
 - date: "2025-04-27"
   description: "Attending CHI 2025 in Yokohama"
@@ -23,7 +23,7 @@
 - date: "2025-04-09"
   description: "Talk at SALT lab UIUC"
   icon: "fa-solid fa-microphone"
-  color: "rosybrown"
+  color: "firebrick"
 
 - date: "2025-03-18"
   description: "Paper on empathetic AI co-pilot for emotional work accepted to CHI 2025"
