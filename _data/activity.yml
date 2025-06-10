@@ -6,6 +6,11 @@
   type: reading
   icon: "fa-solid fa-book"
 
+- description: "Berserk by Kentaro Miura"
+  type: reading
+  icon: "fa-solid fa-book"
+
+
 - description: "Astral Ascent"
   type: gaming
   icon: "fa-solid fa-gamepad"

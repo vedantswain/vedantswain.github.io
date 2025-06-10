@@ -7,5 +7,3 @@ title: Home
 {% include news.md %}
 
 {% include research.md %}
-
-{% include people.md %}
