@@ -1,6 +1,24 @@
 # Include latest items on top of the stack.
 
 - year: 2025
+  author: "Koustuv Saha, Dong Whi Yoo, Vedant Das Swain, Munmun De Choudhury"
+  title: "Mental wellbeing effects of disclosing life events on social media"
+  venue: "Scientific Reports"
+  external_link: "https://doi.org/10.1038/s41598-025-85519-w"
+
+- year: 2025
+  author: "Akshat Choube, Ha Le, Jiachen Li, Kaixin Ji, Vedant Das Swain, Varun Mishra"
+  title: "GLOSS: Group of LLMs for Open-Ended Sensemaking of Passive Sensing Data for Health and Wellbeing"
+  venue: "arXiv preprint"
+  external_link: "https://arxiv.org/abs/2507.05461"
+
+- year: 2025
+  author: "Kaely Hall, Marcus Ma, Xinyue Zhang, Vedant Das Swain, Jennifer G. Kim"
+  title: "Understanding Human-AI Misalignment in LLM-Based Job-Seeking Support for Neurodivergent Users"
+  venue: "ASSETS 2025"
+  external_link: "https://doi.org/10.1145/3663547.3746361"
+
+- year: 2025
   author: "Vedant Das Swain, Qiuyue Zhong, Jash Rajesh Parekh, Yechan Jeon, Roy Zimmermann, Mary Czerwinski, Jina Suh, Varun Mishra, Koustuv Saha, Javier Hernandez"
   title: "AI on My Shoulder: Supporting Emotional Labor in Front-Office Roles with an LLM-based Empathetic Coworker"
   venue: "CHI 2025"
