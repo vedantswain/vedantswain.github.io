@@ -1,4 +1,18 @@
 # Include latest items on top of the stack. Only the latest 10 items will be displayed on the homepage.
+- date: "2025-09-03"
+  description: "Paper on open-ended sensemaking of behavioral data published at IMWUT"
+  icon: "fa-solid fa-paper-plane"
+  color: "chocolate"
+
+- date: "2025-09-01"
+  description: "Started as Assistant Prof. at NYU"
+  icon: "fa-solid fa-seedling"
+  color: "rosybrown"
+
+- date: "2025-06-16"
+  description: "Started as Assistant Prof. at NYU"
+  icon: "fa-solid fa-seedling"
+  color: "rosybrown"
 
 - date: "2025-06-16"
   description: "Attending Everyday AI and Mental Health Summit at Cornell"
