@@ -1,4 +1,9 @@
 # Include latest items on top of the stack. Only the latest 10 items will be displayed on the homepage.
+- date: "2026-01-19"
+  description: "Talk at IIIT Delhi"
+  icon: "fa-solid fa-microphone"
+  color: "firebrick"
+  
 - date: "2026-01-16"
   description: "Attending Serendipity at NYU Abu Dhabi"
   icon: "fa-solid fa-circle-nodes"
