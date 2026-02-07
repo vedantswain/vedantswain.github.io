@@ -3,7 +3,6 @@
 
 ### Recent News
 <!-- pinned -->
-> 🚨 I am starting a new research group at NYU to focus on *COmputing for Productive, Healthy, and Empathetic Experiences* (COPHEE). If you're interested in working with us please checkout the website: [coffee@nyu](https://cophee-lab.com/)
 
 <!-- actual news -->
 <table>

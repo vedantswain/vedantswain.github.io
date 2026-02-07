@@ -1,4 +1,9 @@
 # Include latest items on top of the stack. Only the latest 10 items will be displayed on the homepage.
+- date: "2026-01-18"
+  description: "2 papers accepted to CHI 2026"
+  icon: "fa-solid fa-paper-plane"
+  color: "chocolate"
+
 - date: "2026-01-19"
   description: "Talk at IIIT Delhi"
   icon: "fa-solid fa-microphone"
