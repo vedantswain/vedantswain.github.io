@@ -1,4 +1,24 @@
 # Include latest items on top of the stack. Only the latest 10 items will be displayed on the homepage.
+- date: "2026-05-27"
+  description: "Talk at Microsoft Research NYC"
+  icon: "fa-solid fa-microphone"
+  color: "firebrick"
+
+- date: "2026-05-20"
+  description: "Attended Wharton AI and the Future of Work Conference"
+  icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
+
+- date: "2026-05-02"
+  description: "Panelist at NYU Tandon Alumni Summit"
+  icon: "fa-solid fa-microphone"
+  color: "firebrick"
+
+- date: "2026-04-18"
+  description: "Attended CHI 2026 in Barcelona"
+  icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
+
 - date: "2026-01-18"
   description: "2 papers accepted to CHI 2026"
   icon: "fa-solid fa-paper-plane"
@@ -10,12 +30,12 @@
   color: "firebrick"
   
 - date: "2026-01-16"
-  description: "Attending Serendipity at NYU Abu Dhabi"
+  description: "Attended Serendipity at NYU Abu Dhabi"
   icon: "fa-solid fa-circle-nodes"
   color: "rosybrown"
 
 - date: "2025-12-04"
-  description: "Attending Aging & Technology conference"
+  description: "Attended Aging & Technology conference"
   icon: "fa-solid fa-circle-nodes"
   color: "rosybrown"
 
@@ -30,7 +50,7 @@
   color: "rosybrown"
 
 - date: "2025-06-16"
-  description: "Attending Everyday AI and Mental Health Summit at Cornell"
+  description: "Attended Everyday AI and Mental Health Summit at Cornell"
   icon: "fa-solid fa-circle-nodes"
   color: "rosybrown"
 
@@ -45,7 +65,7 @@
   color: "firebrick"
 
 - date: "2025-04-27"
-  description: "Attending CHI 2025 in Yokohama"
+  description: "Attended CHI 2025 in Yokohama"
   icon: "fa-solid fa-circle-nodes"
   color: "rosybrown"
 

@@ -1,15 +1,11 @@
-- description: "Mighty Morphin by Ryan Parrott/Marco Renna"
+- description: "Absolute Batman by Scott Snyder and Nick Dragotta"
   type: reading
   icon: "fa-solid fa-book"
 
-- description: "Kagurabachi by Takeru Hokazono"
+- description: "Absolute Wonder Woman by Kelly Thompson and Hayden Sherman"
   type: reading
   icon: "fa-solid fa-book"
 
-- description: "Berserk by Kentaro Miura"
-  type: reading
-  icon: "fa-solid fa-book"
-
-- description: "Hollow Knight: Silksong"
-  type: gaming
-  icon: "fa-solid fa-gamepad"
+- description: "FIFA World Cup 2026"
+  type: watching
+  icon: "fa-solid fa-tv"
