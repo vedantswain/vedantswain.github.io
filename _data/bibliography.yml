@@ -1,4 +1,46 @@
 # Include latest items on top of the stack.
+- year: 2026
+  author: "Yueshen Li, Hanyi Min, Vedant Das Swain, Koustuv Saha"
+  title: "TUX: Measuring Human-AI Tacit Understanding"
+  venue: "EMNLP Findings 2026"
+  external_link: "https://doi.org/10.48550/arXiv.2605.30930"
+
+- year: 2026
+  author: "Koustuv Saha, Vedant Das Swain"
+  title: "AI Resilient Future of Work: A Counterfactual Lens on Human-AI Collaboration"
+  venue: "ACM AI Summit 2026"
+  external_link: "https://www.researchgate.net/publication/408419077_AI_Resilient_Future_of_Work_A_Counterfactual_Lens_on_Human-AI_Collaboration"
+  
+- year: 2026
+  author: "Vedant Das Swain, Tunwa Tongtawee, Olivia Wang, Joyce Hsu, Nicholas Jacobson, Varun Mishra"
+  title: "Seamful Design Considerations for Human-in-the-Loop Digital Phenotyping of Mental Health"
+  venue: "IMWUT 2026"
+  external_link: "https://doi.org/10.1145/3832021"
+  internal_link: "./papers/IMWUT2026_SeamfulDYMOND.pdf"
+
+- year: 2026
+  author: "Akshat Choube, Shreeti Shrestha, Ha Le, Jiachen Li, Vedant Das Swain, Varun Mishra"
+  title: "DAIMON: Designing AI-Augmented Research Dashboards to Enable Novel Human-AI Collaborative Workflows in Longitudinal Sensing Studies"
+  venue: "IMWUT 2026"
+  external_link: "https://doi.org/10.1145/3832033"
+
+- year: 2026
+  author: "Duri Lee, Heejeong Lim, Vedant Das Swain, Uichin Lee"
+  title: "Understanding Behind the Smile of Emotion Workers: Detecting After-Call Stress in Call Agents"
+  venue: "CHI 2026"
+  external_link: "https://doi.org/10.1145/3772318.3790803"
+
+- year: 2026
+  author: "Kaely Hall, Max Ohsawa, Vedant Das Swain, Jennifer G. Kim"
+  title: "LL.me: Supporting Identity Work through Human-AI Alignment"
+  venue: "CHI 2026"
+  external_link: "https://doi.org/10.1145/3772318.3790890"
+
+- year: 2026
+  author: "Koustuv Saha, Dong Whi Yoo, Vedant Das Swain, Munmun De Choudhury"
+  title: "Life events as predictors of wellbeing outcomes"
+  venue: "npj Digital Public Health"
+  external_link: "https://doi.org/10.1038/s44482-025-00005-3"
 
 - year: 2025
   author: "Koustuv Saha, Dong Whi Yoo, Vedant Das Swain, Munmun De Choudhury"
@@ -150,7 +192,7 @@
   author: "Koustuv Saha, Manikanta D. Reddy, Vedant Das Swain, Julie M. Gregg, Ted Grover, Suwen Lin, Gonzalo J. Martinez, Stephen M. Mattingly, Shayan Mirjafari, Raghu Mulukutla, Kari Anne Nies, Pablo Robles-Granda, Anusha Sirigiri, Dong Whi Yoo, Pino Audia, Andrew T. Campbell, Nitesh V. Chawla, Sidney K. D'Mello, Anind K. Dey, Kaifeng Jiang, Qiang Liu, Gloria Mark, Ed Moskal, Aaron Striegel, Munmun De Choudhury"
   title: "Imputing Missing Social Media Data Stream in Multisensor Studies of Human Behavior"
   venue: "ACII 2019"
-  external_link: "https://www.researchgate.net/publication/334669683_Imputing_Missing_Social_Media_Data_Stream_in_Multisensor_Studies_of_Human_Behavior"
+  external_link: "https://doi.org/10.1109/ACII.2019.8925479"
   
 
 - year: 2018

@@ -1,4 +1,38 @@
 # Include latest items on top of the stack. Only the latest 10 items will be displayed on the homepage.
+# NOTE: Some entries below are written in future tense for upcoming travel/talks. On the next
+# update, convert any events that have since passed to past tense (e.g. "Attending" -> "Attended",
+# "Giving a talk at" -> "Talk at").
+
+- date: "2026-10-11"
+  description: "Attending UbiComp/ISWC 2026 in Shanghai"
+  icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
+
+- date: "2026-09-01"
+  description: "Presented AI Resilience paper at ACM AI Summit 2026 in Atlanta"
+  icon: "fa-solid fa-microphone"
+  color: "firebrick"
+
+- date: "2026-08-21"
+  description: "Paper on AI CarePilot for Emotional Work accepted to CIST 2026"
+  icon: "fa-solid fa-paper-plane"
+  color: "chocolate"
+
+- date: "2026-08-21"
+  description: "1 papers accepted to EMNLP Findings"
+  icon: "fa-solid fa-paper-plane"
+  color: "chocolate"
+
+- date: "2026-07-03"
+  description: "Attended Early-Career Workshop at Interactive Health 2026 in Porto, Portugal"
+  icon: "fa-solid fa-circle-nodes"
+  color: "rosybrown"
+
+- date: "2026-06-30"
+  description: "2 papers accepted to IMWUT, to be presented at UbiComp 2026"
+  icon: "fa-solid fa-paper-plane"
+  color: "chocolate"
+
 - date: "2026-05-27"
   description: "Talk at Microsoft Research NYC"
   icon: "fa-solid fa-microphone"

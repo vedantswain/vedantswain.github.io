@@ -2,10 +2,10 @@
   type: reading
   icon: "fa-solid fa-book"
 
-- description: "Absolute Wonder Woman by Kelly Thompson and Hayden Sherman"
-  type: reading
-  icon: "fa-solid fa-book"
+- description: "Bread and Fred"
+  type: playing
+  icon: "fa-solid fa-gamepad"
 
-- description: "FIFA World Cup 2026"
+- description: "Lanterns"
   type: watching
   icon: "fa-solid fa-tv"
