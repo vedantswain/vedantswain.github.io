@@ -4,6 +4,6 @@
 <small>
   <i class="{{ item.icon }}"></i>
   {{ item.description }}
-</small></br>
+</small><br>
 {% endfor %}
 </p>
