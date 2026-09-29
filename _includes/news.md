@@ -14,7 +14,7 @@
     <td>{{ item.description }} 
     {% if item.link %}
     <small>
-      <a href="{{ item.link }}"><i class="fa-solid fa-link"></i></a>
+      <a href="{{ item.link }}" aria-label="More about this news item"><i class="fa-solid fa-link"></i></a>
     </small>
     {% endif %}
     </td>

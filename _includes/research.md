@@ -18,8 +18,8 @@ For an up to date and complete list, visit my [Google Scholar profile]({{ site.g
     <br>
     {{ paper.author }} <br> 
     {{ paper.venue }} |
-    <a href="{{ paper.external_link }}" target="_blank">Link</a>  
-    {% if paper.internal_link %} | <a href="{{ paper.internal_link }}" target="_blank">PDF</a>{% endif %}
+    <a href="{{ paper.external_link }}" target="_blank" aria-label="{{ paper.title }} (link)">Link</a>  
+    {% if paper.internal_link %} | <a href="{{ paper.internal_link }}" target="_blank" aria-label="{{ paper.title }} (PDF)">PDF</a>{% endif %}
   </div>
   {% endfor %}
 </div>

@@ -1,6 +1,6 @@
 $primary-color: rgb(76, 76, 76);
 $secondary-color: rgb(52, 52, 52);
-$accent-color: rgb(231, 154, 22);
+$accent-color: rgb(166, 95, 0);
 $border-color: rgb(229, 229, 229);
 
 $padding-offset: 2rem;
@@ -90,7 +90,8 @@ footer {
       align-items: center;
     }
 
-    h2 {
+    h1 {
+      font-size: 1.5em;
       margin-top: 1rem;
       width: 16rem;
       text-align: center;
@@ -98,6 +99,11 @@ footer {
 
     .burger {
       display: none;
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      color: $secondary-color;
     }
   }
 }
