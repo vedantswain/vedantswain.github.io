@@ -6,11 +6,24 @@
   external_link: "https://doi.org/10.48550/arXiv.2605.30930"
 
 - year: 2026
-  author: "Koustuv Saha, Vedant Das Swain"
+  author: "Vedant Das Swain, Koustuv Saha"
   title: "AI Resilient Future of Work: A Counterfactual Lens on Human-AI Collaboration"
   venue: "ACM AI Summit 2026"
-  external_link: "https://www.researchgate.net/publication/408419077_AI_Resilient_Future_of_Work_A_Counterfactual_Lens_on_Human-AI_Collaboration"
-  
+  external_link: "https://doi.org/10.1145/3806096.3844865"
+  internal_link: "./papers/AISummit2026_Resilient.pdf"
+
+- year: 2026
+  author: "Yu Yang, Zhenyu Yan, Hua Shen, Vedant Das Swain, Xuhai Xu"
+  title: "PEACE 2026: Proactive Embodied Assistants in Context-aware Environments"
+  venue: "UbiComp/ISWC 2026 (Workshop)"
+  external_link: "https://peace-workshop.github.io/"
+
+- year: 2026
+  author: "Shyama Sastha Krishnamoorthy Srinivasan, Aisling Ann O'Kane, Ana Tajadura-Jiménez, Anja Thieme, Farah Magrabi, Francisco Nunes, Gautami Tripathi, Kirti Lakra, Manshul Belani, Mohan Kumar, Pragya Singh, Pushpendra Singh, Sara Moin, Vedant Das Swain"
+  title: "Healthcare Beyond Reaction: Harnessing AI and Sensing for Proactive Care"
+  venue: "Interactive Health 2026 (Workshop)"
+  external_link: "https://doi.org/10.1145/3786579.3799787"
+
 - year: 2026
   author: "Vedant Das Swain, Tunwa Tongtawee, Olivia Wang, Joyce Hsu, Nicholas Jacobson, Varun Mishra"
   title: "Seamful Design Considerations for Human-in-the-Loop Digital Phenotyping of Mental Health"

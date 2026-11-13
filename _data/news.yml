@@ -3,6 +3,11 @@
 # update, convert any events that have since passed to past tense (e.g. "Attending" -> "Attended",
 # "Giving a talk at" -> "Talk at").
 
+- date: "2026-10-22"
+  description: "Giving a seminar talk at the University of Maryland"
+  icon: "fa-solid fa-microphone"
+  color: "firebrick"
+
 - date: "2026-10-11"
   description: "Attending UbiComp/ISWC 2026 in Shanghai"
   icon: "fa-solid fa-circle-nodes"
