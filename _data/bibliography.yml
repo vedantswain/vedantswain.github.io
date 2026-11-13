@@ -13,6 +13,12 @@
   internal_link: "./papers/AISummit2026_Resilient.pdf"
 
 - year: 2026
+  author: "Yu Yang, Zhenyu Yan, Hua Shen, Vedant Das Swain, Xuhai Xu"
+  title: "PEACE 2026: Proactive Embodied Assistants in Context-aware Environments"
+  venue: "UbiComp/ISWC 2026 (Workshop)"
+  external_link: "https://peace-workshop.github.io/"
+
+- year: 2026
   author: "Shyama Sastha Krishnamoorthy Srinivasan, Aisling Ann O'Kane, Ana Tajadura-Jiménez, Anja Thieme, Farah Magrabi, Francisco Nunes, Gautami Tripathi, Kirti Lakra, Manshul Belani, Mohan Kumar, Pragya Singh, Pushpendra Singh, Sara Moin, Vedant Das Swain"
   title: "Healthcare Beyond Reaction: Harnessing AI and Sensing for Proactive Care"
   venue: "Interactive Health 2026 (Workshop)"
